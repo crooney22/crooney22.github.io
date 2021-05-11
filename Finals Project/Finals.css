@@ -1,0 +1,125 @@
+body {
+    background-color: #dddddd;
+    margin: 0;
+    padding: 0;
+    font-family: Verdana, sans-serif;
+}
+
+#wrap {
+    width: 70%;
+    margin: 0 auto;
+    background-color: white;
+}
+
+header img {
+    width: 100%;
+}
+
+header {
+    padding: 40px;
+    background-color: darkcyan;
+}
+
+nav {
+    background-color: #0C2C56;
+    padding: 20px;
+    text-align: center;
+    font-family: 'Playball', cursive;
+}
+
+
+.futurehope nav {
+    background-color: #e31836;
+}
+
+.futurehope nav {
+    background-color: #e31836;
+}
+
+.futurehope footer {
+    background-color: #e31836;
+}
+
+.futurehope header {
+    background-color: #012056;
+}
+
+
+nav a {
+    color: white;
+    font-family: 'Playball', cursive;
+    ;
+    padding: 20px 30px;
+    text-decoration: none;
+    font-size: 150%;
+}
+
+nav a:hover {
+    background-color: #C4CED4;
+    color: #0C2C56;
+}
+
+nav li {
+    display: inline;
+}
+
+nav ul {
+    margin: 0;
+    padding;
+    0;
+}
+
+section {
+    padding: 1% 4%;
+    overflow: auto;
+}
+
+section h1,
+section h2 {
+    color: #0C2C56;
+    font-family: Verdana;
+    font-size: 180%;
+}
+
+section h2 {
+    color: darkcyan;
+}
+
+footer {
+    background-color: #0C2C56;
+    color: white;
+    text-align: center;
+    padding: 15px;
+}
+
+.mariner {
+    width: 30%;
+    float: right;
+
+}
+
+.button {
+    background-color: #0C2C56;
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    font-size: 20px;
+    display: inline-block;
+    border-radius: 10px;
+}
+
+a.button:hover {
+    background-color: darkcyan;
+}
+
+.kelenic {
+    width: 35%;
+    float: right;
+}
+
+.futurehope section h1,
+section h2 {
+    color: #e31836;
+    font-family: Verdana;
+    font-size: 180%;
+}
